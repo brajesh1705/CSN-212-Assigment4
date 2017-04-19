@@ -1,0 +1,5 @@
+
+         n :        100             1000                2000                 5000                        10000
+Gift Wrap  :       0.00 ms           2 ms                4 ms                 9 ms                        11.8 ms            
+Graham_scan:       0.00 ms           0.23 ms             0.4 ms               1 ms                        2 ms 
+Quick Hull :       0.00 ms           0.0512 ms           0.1127 ms            0.31579 ms                  0.683 ms                  
